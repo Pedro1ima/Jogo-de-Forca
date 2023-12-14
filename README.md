@@ -1,7 +1,7 @@
 <h1>Jogos no Python</h1>
 
 <h2> Sobre</h2>
-<p>Neste projeto, contém dois jogos desenvolvidos em python, sendo eles: Adivinhação e Forca. Desenvolvendo habilidades em funções, 'String Methods' e também 'Sequences types'</p>
+<p>Neste projeto, contém dois jogos elaborados em python, sendo eles: Adivinhação e Forca. Desenvolvendo habilidades em funções, 'String Methods' e também 'Sequences types'</p>
 
 ##  Tecnologias
 <div>
